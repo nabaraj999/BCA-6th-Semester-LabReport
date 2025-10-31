@@ -1,3 +1,5 @@
+//Lab 1: WAP that gets the localhost IP address, canonical
+// name using InetAddress Methods. 
 import java.net.*;
 
 public class InetAddressDemo {
