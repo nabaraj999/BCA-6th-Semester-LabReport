@@ -1,4 +1,4 @@
-//WAP that downloads Webpage with URL Connection class
+// LAb 4 :WAP that downloads Webpage with URL Connection class
 import java.io.*;
 import java.net.*;
 
