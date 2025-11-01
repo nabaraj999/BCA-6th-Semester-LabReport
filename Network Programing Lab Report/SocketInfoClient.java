@@ -1,3 +1,4 @@
+// LAb 6: WAP that show all the info of client socket using method.
 import java.io.*;
 import java.net.*;
 
